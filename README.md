@@ -1,8 +1,24 @@
-# No Hello
+# No Hello KR
 
-Hello!
+korean language added on `lang/ko-KR` branch
 
-https://nohello.net/
+github page deployed on `site` branch
+
+I fixed text-wrap scroll issue
+
+I'm pretty new to github so bear with me
+
+my forked site here > https://sembee.kr/nohello-net-KR/
+
+original site > https://nohello.net/
+
+![readmeimg.png]
+
+.
+.
+.
+
+---
 
 ## Translators
 
