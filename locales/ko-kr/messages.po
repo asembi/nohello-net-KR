@@ -11,7 +11,7 @@ msgid "header.subtitle"
 msgstr "사람을 부른 후에는 용건을 말씀해 주세요."
 
 msgid "header.introduction"
-msgstr "상대방에게 전화를 걸어서 _\"여보세요?\"_라고 한 뒤 가만히 있는 것을 상상해 봅시다... 🤦‍♀️"
+msgstr "상대방에게 전화를 걸어서 _여보세요?_ 라고 한 뒤 아무 말도 안 하는 것을 상상해 봅시다... 🤦‍♀️"
 
 msgid "example.character.neutral.name"
 msgstr "승민"
@@ -89,9 +89,9 @@ msgstr ""
 "- \"님 바쁘심?, 혹시 이거 마감 언제까진지 아나요?\"\n"
 "- \"안녕하세요 승민님. 오늘 식사는 하셨을까요? 시간 괜찮으실 때 PPT 최신버전으로 좀 요청 드리려구요.^^\"\n"
 "- \"승민아 혹시 안 바쁘면 요거 비기능 요구사항들만 좀 업데이트해줄 수 있을까?\"\n"
-"- 기타 등등\n"
+"- 기타 등등...\n"
 "\n"
-"기존 방식과 큰 차이는 없어 보여도 상대방을 일단 부른 후 바로 용건을 보내두는 것도 **비동기적인 의사소통(각자의 답변)**을 할 수 있는 좋은 방법입니다. 상대방이 잠시 자리를 비웠거나 당신에게 답장을 보냈을 때 당신이 자리를 비웠더라도 상대방이 당신의 다음 메세지를 기다릴 필요 없이 바로 답장을 할 수 있습니다."
+"기존 방식과 큰 차이는 없어 보여도 상대방을 일단 부른 후 바로 용건을 보내두는 것도 **비동기적인 의사소통(각자의 답변)** 을 할 수 있는 좋은 방법입니다. 상대방이 잠시 자리를 비웠거나 당신에게 답장을 보냈을 때 당신이 자리를 비웠더라도 상대방이 당신의 다음 메세지를 기다릴 필요 없이 바로 답장을 할 수 있습니다.\n"
 "\n"
 "올바른 의사소통은 모두를 행복하게 합니다! 🎉\n"
 
@@ -127,7 +127,7 @@ msgid "footer.warning"
 msgstr "그리고 이 사이트를 프로필에 링크해 둔 사람에게는 인사만 해 봤자 아무 답장도 받지 못할 것이라고 생각합시다."
 
 msgid "footer.thanks"
-msgstr "사이트는 [nohello.com]("https://web.archive.org/web/20131127020115/http://www.nohello.com/")에 기반을 두었습니다. 프로필 사진의 출처는 *[The Office]("https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*"입니다. 소스 코드는 [GitHub]("https://github.com/nohello-net/site")에 있습니다."
+msgstr "사이트는 [nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/)에 기반을 두었습니다. 프로필 사진의 출처는 [The Office](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))입니다. 소스 코드는 [GitHub](https://github.com/nohello-net/site)에 있습니다."
 
 # prefix before a list of languages, i.e. This site is available in: English, French, & German
 msgid "footer.languages"
