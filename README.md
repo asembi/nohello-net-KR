@@ -1,24 +1,49 @@
-# No Hello KR
+# 안녕하세요 금지!
+
+.
+
+my forked site here > https://sembee.kr/nohello-net-KR/   
+
+original site > https://nohello.net/
+
+![My image](readmeimg.png)
+
+[nohello](https://nohello.net/)의 한국어 번역을 작업하여 추가하였습니다
+
+좀 더 일상 및 업무에서 사용할 법한 표현을 의미가 전달되게 표현하고자 의역을 좀 많이 넣었습니다
+
+`lang/ko-KR` 브랜치로 PR예정입니다
+
+`site` 브랜치에서 페이지 deploy했습니다
+
+타이틀 애니메이션으로 인한 텍스트 줄바꿈 때문에 작은 화면에서 스크롤이 자꾸 늘어났다 줄어드는 현상이 생겨 그냥 화면 밖으로 벗어나면 잘리게 설정했습니다
+
+협업도 해본 적 없고, PR은 완전 처음이라 어떻게 다뤄야 원본 개발자가 편할지 모르겠습니다
 
 korean language added on `lang/ko-KR` branch
 
 github page deployed on `site` branch
 
-I fixed text-wrap scroll issue
+I took some liberties with the translation to make it give more k-vibes
 
-I'm pretty new to github so bear with me
+I fixed shitty text-wrap scroll issue just add some no-wrap options on `style.css`
 
-my forked site here > https://sembee.kr/nohello-net-KR/
-
-original site > https://nohello.net/
-
-![readmeimg.png]
+First time doing a PR — let me know if I messed anything up or can clean it up
 
 .
+
 .
+
 .
 
 ---
+
+
+# No Hello
+
+Hello!
+
+https://nohello.net/
 
 ## Translators
 
