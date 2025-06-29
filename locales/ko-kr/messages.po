@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Last-Translator: @asembi, 2025\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "header.subtitle"
+msgstr "사람을 부른 후에는 용건을 말씀해 주세요."
+
+msgid "header.introduction"
+msgstr "상대방에게 전화를 걸어서 _\"여보세요?\"_라고 한 뒤 가만히 있는 것을 상상해 봅시다... 🤦‍♀️"
+
+msgid "example.character.neutral.name"
+msgstr "승민"
+
+msgid "example.character.neutral.avatar-description"
+msgstr "승민이의 Slack 프로필 사진"
+
+msgid "example.character.bad.name"
+msgstr "기태"
+
+msgid "example.character.bad.avatar-description"
+msgstr "기태의 Slack 프로필 사진"
+
+msgid "example.character.good.name"
+msgstr "채은"
+
+msgid "example.character.good.avatar-description"
+msgstr "채은이의 Slack 프로필 사진"
+
+msgid "example.bad.title"
+msgstr "❌ 이렇게 하지 마세요."
+
+# the placeholder is the year, i.e. "2022"
+msgid "example.bad.body"
+msgstr ""
+"참고로 기태는 승민이가 굳이 기다릴 필요 없이 답변을 몇 분 더 빨리 받을 수 있었습니다. 승민이는 질문에 대한 대답을 바로 생각할 수 있었기 때문입니다.\n"
+"\n"
+"이런 행동은 일반적으로 상대에게 말을 걸거나 전화할 때 용건부터 말하지 않는 기본적인 예절을 지키기 위한 것임을 이해합니다. 그러나 지금은 %1$s년이고 말로 하는 것과 글로 쓰는 것은 분명히 다릅니다. 대부분의 사람들은 말하는 속도가 타자를 치는 것보다 더 빠릅니다. 상대를 존중하는 의도는 정말 좋지만 당신의 질문이 늘어지는 만큼 **상대방은 더 오래 기다림**으로써 생산성이(랑 기력이 좀) 저하됩니다.\n"
+"\n"
+"이런 말들도 마찬가지입니다.\n"
+"\n"
+"- \"안녕하세요 선생님 혹시 지금 문자 가능하실까요?\"\n"
+"- \"승민씨~ 저 뭐 하나만 좀 금방 물어봐도 될까요?\"\n"
+"- \"지금 잠시 얘기 ㄱㄴ?\"\n"
+"- \"ㅎㅇ?\"\n"
+"- \"어이\"\n"
+"- 기타 등등...\n"
+"\n"
+"**그냥 용건부터 말해주세요!** 😫\n"
+
+msgid "example.bad.message1.timestamp"
+msgstr "오후 2:15"
+
+msgid "example.bad.message1.body"
+msgstr "야 승민아"
+
+msgid "example.bad.reply1.timestamp"
+msgstr "오후 2:19"
+
+msgid "example.bad.reply1.body"
+msgstr "??"
+
+msgid "example.bad.message2.timestamp"
+msgstr "오후 2:20"
+
+# the typo here is intentional - please maintain a similar unprofessional tone!
+msgid "example.bad.message2.body"
+msgstr "아까 그거 몇시랫더ㅣ라?"
+
+msgid "example.bad.reply2.timestamp"
+msgstr "오후 2:20"
+
+msgid "example.bad.reply2.body"
+msgstr "아 세시반이래"
+
+msgid "example.good.title"
+msgstr "✅ 대신 이렇게 해 보세요."
+
+msgid "example.good.body"
+msgstr ""
+"인사만 대충 하고 바로 용건을 보내는 게 좀 무뚝뚝하다 느껴지나요? **충분히 밝고 예의있게 쓸 수 있습니다.**\n"
+"\n"
+"예를 들어,\n"
+"\n"
+"- \"님 바쁘심?, 혹시 이거 마감 언제까진지 아나요?\"\n"
+"- \"안녕하세요 승민님. 오늘 식사는 하셨을까요? 시간 괜찮으실 때 PPT 최신버전으로 좀 요청 드리려구요.^^\"\n"
+"- \"승민아 혹시 안 바쁘면 요거 비기능 요구사항들만 좀 업데이트해줄 수 있을까?\"\n"
+"- 기타 등등\n"
+"\n"
+"기존 방식과 큰 차이는 없어 보여도 상대방을 일단 부른 후 바로 용건을 보내두는 것도 **비동기적인 의사소통(각자의 답변)**을 할 수 있는 좋은 방법입니다. 상대방이 잠시 자리를 비웠거나 당신에게 답장을 보냈을 때 당신이 자리를 비웠더라도 상대방이 당신의 다음 메세지를 기다릴 필요 없이 바로 답장을 할 수 있습니다."
+"\n"
+"올바른 의사소통은 모두를 행복하게 합니다! 🎉\n"
+
+msgid "example.good.message1.timestamp"
+msgstr "오후 2:15"
+
+msgid "example.good.message1.body"
+msgstr "승민아~ 아까 그거 몇 시랬지?"
+
+msgid "example.good.reply1.timestamp"
+msgstr "오후 2:15"
+
+msgid "example.good.reply1.body"
+msgstr "응 3시 반이래"
+
+msgid "example.good.message2.timestamp"
+msgstr "오후 2:15"
+
+# "Ta" is colloquial British(/Australian/etc) for "thanks"
+msgid "example.good.message2.body"
+msgstr "ㄳㄳ 그때 보자~!"
+
+msgid "example.good.reply2.timestamp"
+msgstr "오후 2:16"
+
+msgid "example.good.reply2.body"
+msgstr "ㅇㅋㅇㅋ 👌👌"
+
+msgid "footer.note"
+msgstr "이 사이트는 농담 반 진담 반이니 보낸 사람에게 [화를 내지는 말아주세요.](https://www.youtube.com/watch?v=j2RRaXhQwJM&t=49s)"
+
+msgid "footer.warning"
+msgstr "그리고 이 사이트를 프로필에 링크해 둔 사람에게는 인사만 해 봤자 아무 답장도 받지 못할 것이라고 생각합시다."
+
+msgid "footer.thanks"
+msgstr "사이트는 [nohello.com]("https://web.archive.org/web/20131127020115/http://www.nohello.com/")에 기반을 두었습니다. 프로필 사진의 출처는 *[The Office]("https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*"입니다. 소스 코드는 [GitHub]("https://github.com/nohello-net/site")에 있습니다."
+
+# prefix before a list of languages, i.e. This site is available in: English, French, & German
+msgid "footer.languages"
+msgstr "이 사이트는 다음 언어로 제공됩니다. :"
